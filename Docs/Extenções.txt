@@ -1,0 +1,24 @@
+botão extenções
+Dracula Oficial 
+Dracula
+==========================================================
+Auto rename tag
+faz o fechamento da tag
+=========================================================
+Color Hightlight 
+Identifica a cor em Hexadecimal 
+=========================================================
+Rainbow Brackets 
+Identificar parentes dentro de outros parenteses
+=========================================================
+Material icon Theme 
+Muda os icones da estrutura 
+=========================================================
+Flaticon
+Tem imagens em SVG 
+======================================================== 
+SVG Preview 
+Mostra a imagem na ide 
+=======================================================
+
+

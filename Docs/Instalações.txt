@@ -1,0 +1,6 @@
+Instalação do yarn 
+https://classic.yarnpkg.com/en/docs/install/#windows-stable
+===================================================================
+Criacao do projeto 
+npx create-react-app grafico-pw3 --template typescript
+==================================================================
