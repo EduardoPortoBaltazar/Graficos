@@ -4,3 +4,9 @@ https://classic.yarnpkg.com/en/docs/install/#windows-stable
 Criacao do projeto 
 npx create-react-app grafico-pw3 --template typescript
 ==================================================================
+Styled compoment para trabalhar com CSS
+yarn add styled-components
+==================================================================
+Instalar alguns tipos 
+yarn add @types/styled-components -D
+==================================================================
